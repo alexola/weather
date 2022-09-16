@@ -4,7 +4,7 @@
   "private": true,
   "homepage":"https://alexola.github.io/weather" ,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.3.1",
     "gh-pages": "^2.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
